@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I1yiQYS38V9WlOoxhmzVBMI2N7dVaAJTNEFrEreSnlpbPlQ4S0lkrdvoAZ6G7af4oLjohlp3GqnQC0o+CgBTEg==",
+  "dgSpecHash": "JJn7PhuMpuFW8xPP5U/5p7alYdNVrzvcxSr+8SX3seach3zC+zS2EhNHvUkomfyFK/CLRBvyovoA7/SG8zdsGw==",
   "success": true,
   "projectFilePath": "D:\\DEV\\NEW\\KottNet\\KottNetServer\\KottNetServer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\CosmoKotik\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

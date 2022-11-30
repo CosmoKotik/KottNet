@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.32804.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KottNetServer", "KottNetServer.csproj", "{66C98333-3746-45AE-8F25-72AF7F2A47C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KottNetServer", "KottNetServer.csproj", "{522D635C-BC4B-4733-ACCE-97474E82E9CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{66C98333-3746-45AE-8F25-72AF7F2A47C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66C98333-3746-45AE-8F25-72AF7F2A47C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66C98333-3746-45AE-8F25-72AF7F2A47C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66C98333-3746-45AE-8F25-72AF7F2A47C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522D635C-BC4B-4733-ACCE-97474E82E9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522D635C-BC4B-4733-ACCE-97474E82E9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522D635C-BC4B-4733-ACCE-97474E82E9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522D635C-BC4B-4733-ACCE-97474E82E9CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {346BCDF3-AB68-4FDD-B5F3-38345B9B4611}
+		SolutionGuid = {71279B55-F9F6-4DF7-B6C1-9B517A5CBE3A}
 	EndGlobalSection
 EndGlobal
