@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DEV\\NEW\\KottNet\\KottNetServer\\KottNetServer.csproj": {}
+    "C:\\Users\\CosmoKotik\\Documents\\GitHub\\KottNet\\KottNetServer\\KottNetServer.csproj": {}
   },
   "projects": {
-    "D:\\DEV\\NEW\\KottNet\\KottNetServer\\KottNetServer.csproj": {
+    "C:\\Users\\CosmoKotik\\Documents\\GitHub\\KottNet\\KottNetServer\\KottNetServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEV\\NEW\\KottNet\\KottNetServer\\KottNetServer.csproj",
+        "projectUniqueName": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\KottNet\\KottNetServer\\KottNetServer.csproj",
         "projectName": "KottNetServer",
-        "projectPath": "D:\\DEV\\NEW\\KottNet\\KottNetServer\\KottNetServer.csproj",
+        "projectPath": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\KottNet\\KottNetServer\\KottNetServer.csproj",
         "packagesPath": "C:\\Users\\CosmoKotik\\.nuget\\packages\\",
-        "outputPath": "D:\\DEV\\NEW\\KottNet\\KottNetServer\\obj\\",
+        "outputPath": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\KottNet\\KottNetServer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\CosmoKotik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,8 +59,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,24 @@
+﻿<Window x:Class="KottNetAdmin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KottNetAdmin"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Devices">
+                <ListBox>
+                    <ListBoxItem>ListBox Item #1</ListBoxItem>
+                    <ListBoxItem>ListBox Item #2</ListBoxItem>
+                    <ListBoxItem>ListBox Item #3</ListBoxItem>
+                </ListBox>
+            </TabItem>
+            <TabItem Header="Logs" />
+            <TabItem Header="Settings">
+                <TextBox x:Name="Srv_IP" Width="250" Height="20"/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

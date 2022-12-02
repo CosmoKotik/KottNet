@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Knn0yJHdrESswu8WqZDGmmgx2hoZOoHvjUIWlrIaDF9YLtC/gdYvwyS1krEO3qHb3QlZDOAMQPjLpW15C+Wwg==",
+  "dgSpecHash": "g/QEiJUc8jqO9l0/HLrvs3yB+ihTdj4Iz4tPmgTQAf0GSVpRffHOnM52x4kUAEJu2AnPVNsgZwQnwR9e22hoPQ==",
   "success": true,
-  "projectFilePath": "D:\\DEV\\NEW\\KottNet\\KottNetServer\\KottNetServer.csproj",
+  "projectFilePath": "C:\\Users\\CosmoKotik\\Documents\\GitHub\\KottNet\\KottNetServer\\KottNetServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CosmoKotik\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\CosmoKotik\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
